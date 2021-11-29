@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RabbitMQ_ReceiveLogsDirect": {
+      "commandName": "Project",
+      "commandLineArgs": "info warning error"
+    }
+  }
+}
